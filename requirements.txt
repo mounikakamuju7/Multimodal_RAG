@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+sentence-transformers
+pymupdf
+camelot-py[cv]
+groq
+numpy
+pandas
+python-dotenv
